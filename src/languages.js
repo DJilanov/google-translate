@@ -112,7 +112,9 @@ const languages = {
     "xh": "Xhosa",
     "yi": "Yiddish",
     "yo": "Yoruba",
-    "zu": "Zulu"
+    "zu": "Zulu",
+    "ti": "Tigrinya",
+    "prs": "Dari"
 };
 
 /**
