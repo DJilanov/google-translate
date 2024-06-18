@@ -113,8 +113,7 @@ const languages = {
     "yi": "Yiddish",
     "yo": "Yoruba",
     "zu": "Zulu",
-    "ti": "Tigrinya",
-    "prs": "Dari"
+    "ti": "Tigrinya"
 };
 
 /**
